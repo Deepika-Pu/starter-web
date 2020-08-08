@@ -1,8 +1,10 @@
 # Started New Project
 
-##Intro
+## Intro
+ 
+## Purpose
 
-##Purpose
+## Deployment
 
-##How to Contribute
+## How to Contribute
 
